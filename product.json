@@ -62,5 +62,12 @@
         "image": "ford-mustang-2018.jpg",
         "description": "Best car in the World",
         "price": 79999.99
+    },
+    {
+        "id": "10",
+        "title": "Toyota Tundra",
+        "image": "toyota-tundra.jpg",
+        "description": "The definition of strength",
+        "price": 31400.00
     }
 ]
