@@ -11,4 +11,5 @@ function showAlert(message, success = true) {
     setTimeout(() => {
         $('.alert').alert('close');
     }, 1000);
+
 }
