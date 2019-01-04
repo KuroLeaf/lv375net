@@ -87,5 +87,14 @@
         "price": 45879.99
     }
 
+,
+    {
+        "id": "12",
+        "title": "Bugatti Veyron",
+        "image": "bugatti.png",
+        "description": "Only",
+        "price": 750000.99
+    }
+
     
 ]
