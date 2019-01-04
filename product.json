@@ -1,4 +1,14 @@
 [
+
+    {
+        "id": "20",
+        "title": "Toyota LC200",
+        "image": "toyota_lc200.jpg",
+        "description": "The Land Cruiser's reliability and longevity has led to huge popularity",
+        "price": 444444.4455
+
+    },
+
   {
     "id": "1",
     "title": "Large drone",
@@ -90,4 +100,5 @@
     "description": "Best phone",
     "price": 99.99
   }
+
 ]
