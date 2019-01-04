@@ -55,5 +55,12 @@
         "image": "ford-mustang-2018.jpg",
         "description": "Best car in the World",
         "price": 79999.99
+    },
+    {
+        "id": "42",
+        "title": "Huawei Mate 20 Pro",
+        "image": "huawei-mate-20-pro.jpg",
+        "description": "Best phone in the World",
+        "price": 3000
     }
 ]
