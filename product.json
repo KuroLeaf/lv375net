@@ -86,6 +86,12 @@
         "description": "Best car in the World",
         "price": 45879.99
     }
-
-    
+    ,
+    {
+        "id": "8",
+        "title": "Ford mustang",
+        "image": "ford-mustang-2018.jpg",
+        "description": "Best car in the World",
+        "price": 79999.99
+    }
 ]
