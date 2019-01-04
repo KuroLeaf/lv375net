@@ -47,5 +47,13 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "10",
+        "title": "Volkswagen Tiguan",
+        "image": "Tiguan.jpg",
+        "description": "The best car for mane cases",
+        "price": 50000.00
     }
+    
 ]
