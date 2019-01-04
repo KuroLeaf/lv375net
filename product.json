@@ -105,5 +105,13 @@
     "image": "Oppo Find X.jpg",
     "description": "Best phone",
     "price": 99.99
+  },
+    
+     {
+    "id": "9845",
+    "title": "Bugatti",
+    "image": "bugatti.jpg",
+    "description": "Dont buy this!",
+    "price": 0.98
   }
 ]
