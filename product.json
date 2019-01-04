@@ -70,13 +70,15 @@
         "description": "Best car in the World",
         "price": 79999.99
     },
+    
     {
         "id": "42",
         "title": "Huawei Mate 20 Pro",
         "image": "huawei-mate-20-pro.jpg",
         "description": "Best phone in the World",
         "price": 3000
-    }
+    },
+
     
     {
         "id": "49",
@@ -84,7 +86,18 @@
         "image": "bugatti_veyron.jpg",
         "description": "also car",
         "price": 750000.00
+    }   
+
+
+    ,
+    {
+        "id": "11",
+        "title": "Skoda Kodiaq",
+        "image": "skoda-kodiaq.png",
+        "description": "Best car in the World",
+        "price": 45879.99
     }
-    
+
+
     
 ]
