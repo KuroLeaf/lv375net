@@ -49,6 +49,13 @@
         "price": 99999.99
     },
     {
+        "id": "10",
+        "title": "Volkswagen Tiguan",
+        "image": "Tiguan.jpg",
+        "description": "The best car for mane cases",
+        "price": 50000.00
+    },
+    {
         "id": "9",
         "title": "Chevrolet Corvette",
         "image": "chevy.jpg",
@@ -63,4 +70,5 @@
         "description": "Best car in the World",
         "price": 79999.99
     }
+    
 ]
