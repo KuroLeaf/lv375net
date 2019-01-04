@@ -56,4 +56,13 @@
         "description": "Best car in the World",
         "price": 79999.99
     }
+    ,
+    {
+        "id": "11",
+        "title": "Skoda Kodiaq",
+        "image": "skoda-kodiaq.png",
+        "description": "Best car in the World",
+        "price": 45879.99
+    }
+    
 ]
