@@ -57,4 +57,8 @@ class ProductList {
             window.showAlert('Product added to cart');
         });
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7a1174a7e3683a103144e548ad86da73e3f8a63d
