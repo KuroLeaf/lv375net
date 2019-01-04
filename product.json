@@ -47,6 +47,20 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "10",
+        "title": "Volkswagen Tiguan",
+        "image": "Tiguan.jpg",
+        "description": "The best car for mane cases",
+        "price": 50000.00
+    },
+    {
+        "id": "9",
+        "title": "Chevrolet Corvette",
+        "image": "chevy.jpg",
+        "description": "Just car",
+        "price": 1.99
     }
     ,
     {
@@ -55,5 +69,13 @@
         "image": "ford-mustang-2018.jpg",
         "description": "Best car in the World",
         "price": 79999.99
+    },
+    {
+        "id": "42",
+        "title": "Huawei Mate 20 Pro",
+        "image": "huawei-mate-20-pro.jpg",
+        "description": "Best phone in the World",
+        "price": 3000
     }
+    
 ]
