@@ -47,5 +47,15 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+
+    {
+        "id": "20",
+        "title": "Toyota LC200",
+        "image": "toyota_lc200.jpg",
+        "description": "The Land Cruiser's reliability and longevity has led to huge popularity",
+        "price": 444444.4455
+
     }
+
 ]
