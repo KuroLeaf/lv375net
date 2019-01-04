@@ -63,4 +63,12 @@
         "description": "Best car in the World",
         "price": 79999.99
     }
+    ,
+    {
+        "id": "10",
+        "title": "Xiaomi Mi 8",
+        "image": "xiaomi-mi-8.jpg",
+        "description": "Dual camera with artificial intelligence inside",
+        "price": 11999.99
+    }
 ]
