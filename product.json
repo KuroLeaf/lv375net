@@ -1,91 +1,104 @@
 [
-    {
-        "id": "1",
-        "title": "Large drone",
-        "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can carry load.",
-        "price": 499.99
-    },
-    {
-        "id": "2",
-        "title": "Small drone",
-        "image": "drone-small.jpg",
-        "description": "Small drone. Can fly undetected.",
-        "price": 199.99
-    },
-    {
-        "id": "3",
-        "title": "Blue drone",
-        "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in HD camera",
-        "price": 249.99
-    },
-    {
-        "id": "4",
-        "title": "Red drone",
-        "image": "drone-red.jpg",
-        "description": "Nice-looking drone in red color",
-        "price": 229.99
-    },
-    {
-        "id": "5",
-        "title": "Black gyroboard",
-        "image": "gyroboard-black.jpg",
-        "description": "Black gyroboard to match your style",
-        "price": 729.99
-    },
-    {
-        "id": "6",
-        "title": "White gyroboard",
-        "image": "gyroboard-white.jpg",
-        "description": "White gyroboard with blue lights",
-        "price": 829.99
-    },
-    {
-        "id": "7",
-        "title": "Tesla Model X",
-        "image": "tesla-x.jpg",
-        "description": "Best crossover in the World",
-        "price": 99999.99
-    },
-    {
-        "id": "10",
-        "title": "Volkswagen Tiguan",
-        "image": "Tiguan.jpg",
-        "description": "The best car for mane cases",
-        "price": 50000.00
-    },
-    {
-        "id": "9",
-        "title": "Chevrolet Corvette",
-        "image": "chevy.jpg",
-        "description": "Just car",
-        "price": 1.99
-    }
-    ,
-    {
-        "id": "8",
-        "title": "Ford mustang",
-        "image": "ford-mustang-2018.jpg",
-        "description": "Best car in the World",
-        "price": 79999.99
-    },
-    {
-        "id": "42",
-        "title": "Huawei Mate 20 Pro",
-        "image": "huawei-mate-20-pro.jpg",
-        "description": "Best phone in the World",
-        "price": 3000
-    }
 
-    ,
     {
-        "id": "11",
-        "title": "Skoda Kodiaq",
-        "image": "skoda-kodiaq.png",
-        "description": "Best car in the World",
-        "price": 45879.99
-    }
+        "id": "20",
+        "title": "Toyota LC200",
+        "image": "toyota_lc200.jpg",
+        "description": "The Land Cruiser's reliability and longevity has led to huge popularity",
+        "price": 444444.4455
 
-    
+    },
+
+  {
+    "id": "1",
+    "title": "Large drone",
+    "image": "drone-large.jpg",
+    "description": "Large drone for most critical missions. Can carry load.",
+    "price": 499.99
+  },
+  {
+    "id": "2",
+    "title": "Small drone",
+    "image": "drone-small.jpg",
+    "description": "Small drone. Can fly undetected.",
+    "price": 199.99
+  },
+  {
+    "id": "3",
+    "title": "Blue drone",
+    "image": "drone-blue.jpg",
+    "description": "Nice-looking drone in blue color. Has built-in HD camera",
+    "price": 249.99
+  },
+  {
+    "id": "4",
+    "title": "Red drone",
+    "image": "drone-red.jpg",
+    "description": "Nice-looking drone in red color",
+    "price": 229.99
+  },
+  {
+    "id": "5",
+    "title": "Black gyroboard",
+    "image": "gyroboard-black.jpg",
+    "description": "Black gyroboard to match your style",
+    "price": 729.99
+  },
+  {
+    "id": "6",
+    "title": "White gyroboard",
+    "image": "gyroboard-white.jpg",
+    "description": "White gyroboard with blue lights",
+    "price": 829.99
+  },
+  {
+    "id": "7",
+    "title": "Tesla Model X",
+    "image": "tesla-x.jpg",
+    "description": "Best crossover in the World",
+    "price": 99999.99
+  },
+  {
+    "id": "10",
+    "title": "Volkswagen Tiguan",
+    "image": "Tiguan.jpg",
+    "description": "The best car for mane cases",
+    "price": 50000.00
+  },
+  {
+    "id": "9",
+    "title": "Chevrolet Corvette",
+    "image": "chevy.jpg",
+    "description": "Just car",
+    "price": 1.99
+  },
+  {
+    "id": "8",
+    "title": "Ford mustang",
+    "image": "ford-mustang-2018.jpg",
+    "description": "Best car in the World",
+    "price": 79999.99
+  },
+  {
+    "id": "42",
+    "title": "Huawei Mate 20 Pro",
+    "image": "huawei-mate-20-pro.jpg",
+    "description": "Best phone in the World",
+    "price": 3000
+  },
+  {
+    "id": "11",
+    "title": "Skoda Kodiaq",
+    "image": "skoda-kodiaq.png",
+    "description": "Best car in the World",
+    "price": 45879.99
+  },
+  {
+    "id": "13",
+    "title": "Oppo Find X",
+    "image": "Oppo Find X.jpg",
+    "description": "Best phone",
+    "price": 99.99
+  }
+
 ]
